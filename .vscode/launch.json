@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/ACER/Documents/Rafli/Kuliah/Tugas Kuliah/Semester 2/Proyek 1 - Pengembangan Perangkat Lunak Dekstop/Tugas 8.1 - Web Scrapping Beautiful Shop/code/Web-Scraping",
+      "program": "c:/Users/ACER/Documents/Rafli/Kuliah/Tugas Kuliah/Semester 2/Proyek 1 - Pengembangan Perangkat Lunak Dekstop/Tugas 8.1 - Web Scrapping Beautiful Shop/code/Web-Scraping/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
